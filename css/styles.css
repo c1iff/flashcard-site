@@ -1,0 +1,12 @@
+.col-md-4 {
+  text-align: center;
+  background-color: #e0e0e0;
+  border: solid black 0.5px;
+  margin-top: 10px;
+  padding-bottom: 5px;
+}
+
+
+ h5 {
+  display: none;
+}
